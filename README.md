@@ -1,13 +1,13 @@
 # CV
 
-##Profile
+## Profile
 
-##Skills
+## Skills
 
-##Experience
+## Experience
 
-##Projects
+## Projects
 
-##Education
+## Education
 
-##Interests
+## Interests
