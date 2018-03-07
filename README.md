@@ -71,10 +71,10 @@ In Retail and Marketing, I had to convince staff to help me, in selling and prom
 
 ## Education
 
-**Front End Development Program** (Highest Distinction)  
+**Front End Development Program** ([Highest Distinction](https://www.freecodecamp.org/gurtaj1/front-end-certification))  
 *Free Code Camp* (February 2017 to February 2018)  
 -  Completed all compulsory and non-compulsory challenges.
--  Succesfully submitted all set projects.
+-  Succesfully submitted all projects.
 
 **MSc Management of Intellectual Property** (Merit)  
 *Queen Mary University of London* (September 2013 to September 2014)  
