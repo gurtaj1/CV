@@ -48,7 +48,7 @@ In Retail and Marketing, I had to convince staff to help me, in selling and prom
 
 ## Experience
 
-**Front-End Web Developer**
+**Front-End Web Developer**  
 *King of Vape* (August 2017 to January 2018)
 - Built and tested company eCommerce website.
 - Implemented ReactJS, React Router, and Redux to produce a bespoke Web App.
@@ -81,7 +81,7 @@ In Retail and Marketing, I had to convince staff to help me, in selling and prom
 -  Investor Advisory Report prepared on the intellectual property assets of a leading construction solutions provider.
 -  Dissertation Project focused on ‘Patents and the Scope of Protection they Provide for Traditional Knowledge’.
 
-**Postgraduate Certificate of Education in Physics**
+**Postgraduate Certificate of Education in Physics**  
 *The University of Hull* (October 2011 to September 2012)  
 -  Modules in 'Statistical and Computational Physics', 'Nanoscale Physics', and 'Lasers in Science and Material Processing'.
 -  Research Project and Presentation on the ‘Development and Implementation of Bio-mimetic Devices’.
@@ -91,11 +91,11 @@ In Retail and Marketing, I had to convince staff to help me, in selling and prom
 -  Modules in 'Programming in C', 'Optoelectronic Devices and Photonics', 'Solid State Physics', and 'Applied Nuclear Physics'.
 -  Dissertation and Presentation on ‘Why Water is Essential to Life’.
 
-**A-Levels** 
+**A-Levels**  
 *Wyke College* (September 2004 to June 2006)  
 -  Chemistry (A), Physics (B), Electronics (A), Mathematics (B).
 
-**Secondary Education** 
+**Secondary Education**  
 *Sydney Smith School* (September 1999 to June 2004)  
 -  9 GCSEs and 1 GNVQ obtained.
 
