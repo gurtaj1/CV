@@ -73,23 +73,20 @@ In Retail and Marketing, I had to convince staff to help me, in selling and prom
 
 **Front End Development Program** ([Highest Distinction](https://www.freecodecamp.org/gurtaj1/front-end-certification))  
 *Free Code Camp* (February 2017 to February 2018)  
--  Completed all compulsory and non-compulsory challenges.
+-  Completed all compulsory and optional challenges in *HTML*, *CSS*, and *JavaScript*.
 -  Succesfully submitted all projects.
 
 **MSc Management of Intellectual Property** (Merit)  
 *Queen Mary University of London* (September 2013 to September 2014)  
--  Investor Advisory Report prepared on the intellectual property assets of a leading construction solutions provider.
--  Dissertation Project focused on ‘Patents and the Scope of Protection they Provide for Traditional Knowledge’.
 
 **Postgraduate Certificate of Education in Physics**  
 *The University of Hull* (October 2011 to September 2012)  
--  Modules in 'Statistical and Computational Physics', 'Nanoscale Physics', and 'Lasers in Science and Material Processing'.
--  Research Project and Presentation on the ‘Development and Implementation of Bio-mimetic Devices’.
+-  Module in *'Statistical and Computational Physics'*.
 
 **BSc Physics** (2nd Class Honours)  
 *The University of Manchester* (September 2006 to June 2009)  
--  Modules in 'Programming in C', 'Optoelectronic Devices and Photonics', 'Solid State Physics', and 'Applied Nuclear Physics'.
--  Dissertation and Presentation on ‘Why Water is Essential to Life’.
+-  Module in *'Programming in C'*.
+-  Use of *MATLAB* in lab sessions.
 
 **A-Levels**  
 *Wyke College* (September 2004 to June 2006)  
