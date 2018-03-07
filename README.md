@@ -48,23 +48,23 @@ In Retail and Marketing, I had to convince staff to help me, in selling and prom
 
 ## Experience
 
-**King of Vape**(August 2017 to January 2018)
-*Front-End Web Developer*
--Built and tested company eCommerce website.
--Implemented ReactJS, React Router, and Redux to produce a bespoke Web App.
--Tested App and submitted progress using the GitHub version control repositry service.
--Produced initial site using well known eCommerce platform, Shopwired.
+**King of Vape**(August 2017 to January 2018)  
+*Front-End Web Developer*  
+-Built and tested company eCommerce website.  
+-Implemented ReactJS, React Router, and Redux to produce a bespoke Web App.  
+-Tested App and submitted progress using the GitHub version control repositry service.  
+-Produced initial site using well known eCommerce platform, Shopwired.  
 
-**Capstone Communication Services Ltd.**(April 2016 to December 2017)
+**Capstone Communication Services Ltd.**(April 2016 to December 2017)  
 *Engineer*
 
-**Smee & Ford**(September 2016 to October 2016)
+**Smee & Ford**(September 2016 to October 2016)  
 *Editorial Assistant*
 
-**Nigel Fredericks**(June 2015 to April 2016)
+**Nigel Fredericks**(June 2015 to April 2016)  
 *Data Analyst*
 
-**Blue Square Marketing**(June 2009 to November 2014)
+**Blue Square Marketing**(June 2009 to November 2014)  
 *Regional Sales Representative*
 
 ## Projects
