@@ -48,27 +48,55 @@ In Retail and Marketing, I had to convince staff to help me, in selling and prom
 
 ## Experience
 
-**King of Vape** (August 2017 to January 2018)  
-*Front-End Web Developer*  
-- Built and tested company eCommerce website.  
-- Implemented ReactJS, React Router, and Redux to produce a bespoke Web App.  
-- Tested App and submitted progress using the GitHub version control repositry service.  
-- Produced initial site using well known eCommerce platform, Shopwired.  
+**Front-End Web Developer**
+*King of Vape* (August 2017 to January 2018)
+- Built and tested company eCommerce website.
+- Implemented ReactJS, React Router, and Redux to produce a bespoke Web App.
+- Tested App and submitted progress using the GitHub version control repositry service.
+- Produced initial site using well known eCommerce platform, Shopwired.
 
-**Capstone Communication Services Ltd.** (April 2016 to December 2017)  
-*Engineer*
+**Engineer**   
+*Capstone Communication Services Ltd.* (April 2016 to December 2017)  
 
-**Smee & Ford** (September 2016 to October 2016)  
-*Editorial Assistant*
+**Editorial Assistant**   
+*Smee & Ford* (September 2016 to October 2016)  
 
-**Nigel Fredericks** (June 2015 to April 2016)  
-*Data Analyst*
+**Data Analyst**   
+*Nigel Fredericks* (June 2015 to April 2016)  
 
-**Blue Square Marketing** (June 2009 to November 2014)  
-*Regional Sales Representative*
+**Regional Sales Representative**   
+*Blue Square Marketing* (June 2009 to November 2014)  
 
 ## Projects
 
 ## Education
+
+**Front End Development Program** (Highest Distinction)  
+*Free Code Camp* (February 2017 to February 2018)  
+-  Completed all compulsory and non-compulsory challenges.
+-  Succesfully submitted all set projects.
+
+**MSc Management of Intellectual Property** (Merit)  
+*Queen Mary University of London* (September 2013 to September 2014)  
+-  Investor Advisory Report prepared on the intellectual property assets of a leading construction solutions provider.
+-  Dissertation Project focused on ‘Patents and the Scope of Protection they Provide for Traditional Knowledge’.
+
+**Postgraduate Certificate of Education in Physics**
+*The University of Hull* (October 2011 to September 2012)  
+-  Modules in 'Statistical and Computational Physics', 'Nanoscale Physics', and 'Lasers in Science and Material Processing'.
+-  Research Project and Presentation on the ‘Development and Implementation of Bio-mimetic Devices’.
+
+**BSc Physics** (2nd Class Honours)  
+*The University of Manchester* (September 2006 to June 2009)  
+-  Modules in 'Programming in C', 'Optoelectronic Devices and Photonics', 'Solid State Physics', and 'Applied Nuclear Physics'.
+-  Dissertation and Presentation on ‘Why Water is Essential to Life’.
+
+**A-Levels** 
+*Wyke College* (September 2004 to June 2006)  
+-  Chemistry (A), Physics (B), Electronics (A), Mathematics (B).
+
+**Secondary Education** 
+*Sydney Smith School* (September 1999 to June 2004)  
+-  9 GCSEs and 1 GNVQ obtained.
 
 ## Interests
