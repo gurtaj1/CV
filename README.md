@@ -73,7 +73,7 @@ In Retail and Marketing, I had to convince staff to help me, in selling and prom
 |Project|Description|Timeframe|Technologies|
 |---|---|---|---|
 |[King Of Vape](https://gurtaj1.github.io/KOV/)|A Shopping Website built using facebook's create-react-app|3 months (ongoing)|ReactJS, Redux, React-Router|
-|[RGBY](https://gurtaj1.github.io/rgby/)|A recreation of the Simon Game, popular in the 70's and 80's|4 days|HTML,CSS,JavaScript|
+|[RGBY](https://gurtaj1.github.io/rgby/)|A recreation of the Simon Game, popular in the 70's and 80's|4 days|HTML, CSS, JavaScript|
 |[Pomodor-O'Clock](https://gurtaj1.github.io/pomodoro/)|An emulation of a Pomodoro Clock|4 days|HTML, CSS, JavaScript|
 |[O's and X's](https://gurtaj1.github.io/osandxs/)|A virtual version of the Noughts and Crosses game with an unbeatable AI|3 days|HTML, CSS, JavaScript|
 |[Calc-U-Later Aligator](https://gurtaj1.github.io/calculator/)|A virtual Non-Scientific Calculator|3 days|HTML, CSS, Javascript|
@@ -106,3 +106,4 @@ In Retail and Marketing, I had to convince staff to help me, in selling and prom
 -  9 GCSEs and 1 GNVQ obtained.
 
 ## Interests
+Apart from being an avid music fan and movie fanatic, I also love travelling and learning about new cultures. I took a particular liking to Spain on my visits and am now learning Spanish. According to my Duolingo app I am currently 54% fluent.
