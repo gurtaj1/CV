@@ -50,10 +50,10 @@ In Retail and Marketing, I had to convince staff to help me, in selling and prom
 
 **Front-End Web Developer**  
 *King of Vape* (August 2017 to January 2018)
-- Built and tested company eCommerce [website](https://www.kingofvape.co.uk/).
+- Built and tested company eCommerce website.
 - Implemented ReactJS, React Router, and Redux to produce a bespoke Web App.
 - Tested App and submitted progress using the GitHub version control repositry service.
-- Produced initial site using well known eCommerce platform, Shopwired.
+- Produced [initial site](https://www.kingofvape.co.uk/) using well known eCommerce platform, Shopwired.
 
 **Engineer**   
 *Capstone Communication Services Ltd.* (April 2016 to December 2017)  
@@ -68,6 +68,15 @@ In Retail and Marketing, I had to convince staff to help me, in selling and prom
 *Blue Square Marketing* (June 2009 to November 2014)  
 
 ## Projects
+**See my personal portfolio** ***[here](https://gurtaj1.github.io/)***
+
+|Project|Description|Timeframe|Technologies|
+|---|---|---|---|
+|[King Of Vape](https://gurtaj1.github.io/KOV/)|A Shopping Website built using facebook's create-react-app|3 months (ongoing)|ReactJS, Redux, React-Router|
+|[RGBY](https://gurtaj1.github.io/rgby/)|A recreation of the Simon Game, popular in the 70's and 80's|4 days|HTML,CSS,JavaScript|
+|[Pomodor-O'Clock](https://gurtaj1.github.io/pomodoro/)|An emulation of a Pomodoro Clock|4 days|HTML, CSS, JavaScript|
+|[Noughts and Crosses](https://gurtaj1.github.io/osandxs/)|A virtual version of the Noughts and Crosses game with an unbeatable AI|3 days|HTML, CSS, JavaScript|
+|[Calc-U-Later Aligator](https://gurtaj1.github.io/calculator/)|A virtual Non-Scientific Calculator|3 days|HTML, CSS, Javascript|
 
 ## Education
 
