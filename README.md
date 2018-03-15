@@ -106,4 +106,4 @@ In Retail and Marketing, I had to convince staff to help me, in selling and prom
 -  9 GCSEs and 1 GNVQ obtained.
 
 ## Interests
-Apart from being an avid music fan and movie fanatic, I also love travelling the world and learning about new cultures. I took a particular liking to Spain on my visits and I am now learning to speak Spanish. According to my Duolingo app I am currently 54% fluent.
+Apart from being an avid music fan and a movie fanatic, I love travelling the world and learning about new cultures. I took a particular liking to Spain on my visits and I am now learning to speak Spanish. According to my Duolingo app I am currently 54% fluent.
