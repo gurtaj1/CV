@@ -1,5 +1,5 @@
 # Gurtaj Kang
-
+[Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Portfolio](https://gurtaj1.github.io/) | [LinkedIn](https://www.linkedin.com/in/gurtaj-singh-kang-6883515b)
 ## Profile
 I am an honest, positive, and enthusiastic individual who is fully able and determined in continuing a career as a Web Developer. 
 
