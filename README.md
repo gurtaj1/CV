@@ -72,7 +72,7 @@ In Retail and Marketing, I had to convince staff to help me, in selling and prom
 
 |Project|Description|Timeframe|Technologies|
 |---|---|---|---|
-|[King Of Vape](https://gurtaj1.github.io/KOV/)|A Shopping Website built using facebook's create-react-app|3 months (ongoing)|ReactJS, Redux, React-Router|
+|[King Of Vape](https://gurtaj1.github.io/KOV/)|A Shopping Website built using facebook's create-react-app|3 months|ReactJS, Redux, React-Router|
 |[RGBY](https://gurtaj1.github.io/rgby/)|A recreation of the Simon Game, popular in the 70's and 80's|4 days|HTML, CSS, JavaScript|
 |[Pomodor-O'Clock!](https://gurtaj1.github.io/pomodoro/)|An emulation of a Pomodoro Clock|4 days|HTML, CSS, JavaScript|
 |[O's and X's](https://gurtaj1.github.io/osandxs/)|A virtual version of the Noughts and Crosses game with an unbeatable AI|3 days|HTML, CSS, JavaScript|
