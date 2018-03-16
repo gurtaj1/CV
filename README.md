@@ -61,7 +61,7 @@ In Retail and Marketing, I had to convince staff to help me, in selling and prom
 
 **Data Analyst**   
 *Nigel Fredericks* (June 2015 to April 2016)  
-- Created macros (VBA) to run reports in excel.
+- Created macros (VBA) to run reports in Excel.
 - Extracted data from company database using SQL queries.
 
 **Regional Sales Representative**   
