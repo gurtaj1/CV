@@ -45,12 +45,10 @@ During my time at Capstone Communications, lesser-qualified engineers often look
 
 In Retail and Marketing, I had to convince staff to help me, in selling and promoting a client's product, over any competitor products. I exercised my knowledge and passion, and showed my genuine will to reciprocate, in order to successfully form dedicated allies who were always eager to help.
 
-
 ## Experience
 
 **Front-End Web Developer**  
 *King of Vape* (August 2017 to January 2018)
-- Built and tested company eCommerce website.
 - Implemented ReactJS, React Router, and Redux to produce a bespoke Web App.
 - Tested App and submitted progress using the GitHub version control repositry service.
 - Produced [initial site](https://www.kingofvape.co.uk/) using well known eCommerce platform, Shopwired.
