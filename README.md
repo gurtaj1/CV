@@ -47,7 +47,7 @@ In Retail and Marketing, I had to convince staff to help me, in selling and prom
 
 ## Experience
 
-**Front-End Web Developer**  
+**Front-End Developer**  
 *King of Vape* (August 2017 to January 2018)
 - Implemented ReactJS, React Router, and Redux to produce a bespoke Web App.
 - Tested App and submitted progress using the GitHub version control repositry service.
