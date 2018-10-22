@@ -48,6 +48,18 @@ In Retail and Marketing, I had to convince staff to help me, in selling and prom
 ## Experience
 
 **Front-End Developer**  
+*Ostmodern* (April 2018 to November 2018)
+- Worked on F1TV and ITV Box Office.
+- Used React and Redux along with Redux-Observable middleware to handle streams of actions.
+- Fetched content through calls to the API of a headless CMS.
+- Bundled and transpiled projects using Webpack.
+- Packaged and tagged releases and hotfixes, then deployed them to a production environment.
+- Implemented compulsory unit-tests using Jest and Enzyme.
+- Often debugged failed feature builds and smoke-suite test failures, within the Jenkins CI.
+- Attended daily stand-ups and regular sprint-planning as Agile methodology was strictly adhered to.
+- Sites worked on: [F1TV](https://f1tv.formula1.com) and [ITV Box Office](https://f1tv.formula1.com).
+
+**Front-End Developer**  
 *King of Vape* (August 2017 to January 2018)
 - Implemented ReactJS, React Router, and Redux to produce a bespoke Web App.
 - Tested App and submitted progress using the GitHub version control repositry service.
