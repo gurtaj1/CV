@@ -49,7 +49,6 @@ In Retail and Marketing, I had to convince staff to help me, in selling and prom
 
 **Front-End Developer**  
 *Ostmodern* (April 2018 to November 2018)
-- Worked on F1TV and ITV Box Office.
 - Used React and Redux along with Redux-Observable middleware to handle streams of actions.
 - Fetched content through calls to the API of a headless CMS.
 - Bundled and transpiled projects using Webpack.
