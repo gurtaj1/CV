@@ -53,8 +53,8 @@ In Retail and Marketing, I had to convince staff to help me, in selling and prom
 - Tech Stack included React, Redux, React-Hooks, Apollo GraphQl, and Flow.
 - Unit testing and a11y testing was necessity for all new features.
 - Constructed test helper functions that were utilised across all of the projects.
-- Had sole ownership of features like the introduction of Multi Authentication Methods flow.
-- Attended as well as lead Dev talks on topics at the forefront of technology.
+- Had sole ownership of features like the introduction of Multi Authentication Methods.
+- Attended, as well as led, Dev talks on topics at the forefront of technology.
 
 **Front-End Developer**  
 *Ostmodern* (April 2018 to November 2018)
