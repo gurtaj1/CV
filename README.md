@@ -47,6 +47,15 @@ In Retail and Marketing, I had to convince staff to help me, in selling and prom
 
 ## Experience
 
+**Web Developer**
+*LifeWorks* (November 2018 to Present)
+- Tech Stack included React, Redux, React-Hooks, Apollo GraphQl, and Flow.
+- Constructed helper functions for unit testing Apollo Queries/Mutations.
+- PR's were rarely merged without unit tests and a11y testing.
+- Worked on the WellBeing feature team, which is the main product.
+- Applied a Multi Authentication Method flow to the platform.
+- Attended as well as lead Dev talks on topics at the forefront of technology.
+
 **Front-End Developer**  
 *Ostmodern* (April 2018 to November 2018)
 - Used React and Redux along with Redux-Observable middleware to handle streams of actions.
