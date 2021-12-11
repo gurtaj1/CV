@@ -47,7 +47,7 @@ In Retail and Marketing, I had to convince staff to help me, in selling and prom
 
 ## Experience
 
-**Web Developer**
+**Web Developer**  
 *LifeWorks* (November 2018 to Present)
 - Tech Stack included React, Redux, React-Hooks, Apollo GraphQl, and Flow.
 - Constructed helper functions for unit testing Apollo Queries/Mutations.
